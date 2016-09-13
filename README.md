@@ -4,7 +4,7 @@ What it does, is running SCAN command with supplied bulk size in -b parameter va
 
 Project written using .NET Core
 
-To install .NET Core visit http://dot.net and install according to your OS.
+To install .NET Core visit http://dot.net and install the one for your OS.
 
 #### Building
 1. Clone repo
